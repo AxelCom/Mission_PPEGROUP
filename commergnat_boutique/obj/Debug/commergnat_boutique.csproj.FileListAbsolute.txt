@@ -69,3 +69,6 @@ C:\Users\loleur9\Desktop\commergnat_boutique\commergnat_boutique\obj\Debug\comme
 C:\Users\axel.commergnat\Desktop\commergnat_boutique\PPE\commergnat_boutique\bin\Debug\commergnat_boutique.exe.config
 C:\Users\axel.commergnat\Desktop\commergnat_boutique\PPE\commergnat_boutique\obj\Debug\commergnat_boutique.exe
 C:\Users\axel.commergnat\Desktop\commergnat_boutique\PPE\commergnat_boutique\obj\Debug\commergnat_boutique.pdb
+C:\Users\dorian.sonzogni\Documents\Visual Studio 2015\Groupe\commergnat_boutique\bin\Debug\commergnat_boutique.exe.config
+C:\Users\dorian.sonzogni\Documents\Visual Studio 2015\Groupe\commergnat_boutique\obj\Debug\commergnat_boutique.exe
+C:\Users\dorian.sonzogni\Documents\Visual Studio 2015\Groupe\commergnat_boutique\obj\Debug\commergnat_boutique.pdb
