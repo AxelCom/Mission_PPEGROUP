@@ -75,3 +75,6 @@ C:\Users\dorian.sonzogni\Documents\Visual Studio 2015\Groupe\commergnat_boutique
 G:\SIO 2017 - 2018\Rouchon\MissionGP\oui\commergnat_boutique\bin\Debug\commergnat_boutique.exe.config
 G:\SIO 2017 - 2018\Rouchon\MissionGP\oui\commergnat_boutique\obj\Debug\commergnat_boutique.exe
 G:\SIO 2017 - 2018\Rouchon\MissionGP\oui\commergnat_boutique\obj\Debug\commergnat_boutique.pdb
+F:\BTS\Projet\Projet groupe\Application\commergnat_boutique\bin\Debug\commergnat_boutique.exe.config
+F:\BTS\Projet\Projet groupe\Application\commergnat_boutique\obj\Debug\commergnat_boutique.exe
+F:\BTS\Projet\Projet groupe\Application\commergnat_boutique\obj\Debug\commergnat_boutique.pdb
