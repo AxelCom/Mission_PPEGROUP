@@ -14,6 +14,15 @@ namespace commergnat_boutique
         {
             return GestionBoutique.ExecuterRequeteSelect("SELECT idProduit, libelleProduit, prixHTProduit, qteStockProduit, nomFournisseur, libelleCategorie FROM Produit, Fournisseur, Categorie where idFourn = idFournisseur and idCat = idCategorie ORDER BY idProduit");
         }
+        public static DataTable getLesProduits()
+        {
+            return GestionBoutique.ExecuterRequeteSelect("CALL InfosProduits('')"); //Procédure stockée renvoyant tous les produits
+        }
+
+        public static DataTable getLesproduits(string TypeProduit)
+        {
+            return GestionBoutique.ExecuterRequeteSelect("CALL InfosProduits('" + TypeProduit + "'"); //Procédure stockée renvoyant les produits spécifiques au paramètre renseigné
+        }
         public static DataTable getLesCategories()
         {
             return GestionBoutique.ExecuterRequeteSelect("SELECT * FROM Categorie");
