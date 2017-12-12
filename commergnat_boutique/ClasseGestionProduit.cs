@@ -16,7 +16,7 @@ namespace commergnat_boutique
         }
         public static DataTable getLesProduits()
         {
-            return GestionBoutique.ExecuterRequeteSelect("CALL InfosProduits('')"); //Procédure stockée renvoyant tous les produits
+            return GestionBoutique.ExecuterRequeteSelect("CALL InfosProduits('')"); //Procédure stockée renvoyant tous les produitss
         }
 
         public static DataTable getLesproduits(string TypeProduit)
