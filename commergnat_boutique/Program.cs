@@ -11,7 +11,7 @@ namespace commergnat_boutique
         /// <summary>
         /// Point d'entrée principal de l'application.
         /// </summary>
-        /// // HEllo word
+        /// // HEllo word puio
         [STAThread]
         static void Main()
         {
