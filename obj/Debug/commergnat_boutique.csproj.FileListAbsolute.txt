@@ -1,0 +1,68 @@
+\\isio\sio\sio1\axel.commergnat\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\bin\Debug\commergnat_boutique.exe.config
+\\isio\sio\sio1\axel.commergnat\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\bin\Debug\commergnat_boutique.exe
+\\isio\sio\sio1\axel.commergnat\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\bin\Debug\commergnat_boutique.pdb
+\\isio\sio\sio1\axel.commergnat\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\bin\Debug\MySql.Data.xml
+\\isio\sio\sio1\axel.commergnat\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.csprojResolveAssemblyReference.cache
+\\isio\sio\sio1\axel.commergnat\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.Properties.Resources.resources
+\\isio\sio\sio1\axel.commergnat\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.csproj.GenerateResource.Cache
+\\isio\sio\sio1\axel.commergnat\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.exe
+\\isio\sio\sio1\axel.commergnat\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.pdb
+\\isio\sio\sio1\axel.commergnat\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.accueil.resources
+\\isio\sio\sio1\axel.commergnat\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.GestionCommande.resources
+\\isio\sio\sio1\axel.commergnat\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.GestionClient.resources
+\\isio\sio\sio1\axel.commergnat\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.GestionFournisseur.resources
+\\isio\sio\sio1\axel.commergnat\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\bin\Debug\MySql.Data.dll
+\\isio\sio\sio1\axel.commergnat\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.GestionProduits.resources
+\\isio\sio\sio1\axel.commergnat\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.GestionLigneComande.resources
+\\isio\sio\sio1\axel.commergnat\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\bin\Debug\itextsharp.dll
+Z:\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\bin\Debug\commergnat_boutique.exe.config
+Z:\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.exe
+Z:\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.pdb
+Z:\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\bin\Debug\commergnat_boutique.exe
+Z:\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\bin\Debug\commergnat_boutique.pdb
+Z:\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\bin\Debug\itextsharp.dll
+Z:\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\bin\Debug\MySql.Data.dll
+Z:\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\bin\Debug\MySql.Data.xml
+Z:\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.csprojResolveAssemblyReference.cache
+Z:\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.accueil.resources
+Z:\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.GestionClient.resources
+Z:\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.GestionCommande.resources
+Z:\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.GestionFournisseur.resources
+Z:\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.GestionLigneComande.resources
+Z:\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.GestionProduits.resources
+Z:\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.Properties.Resources.resources
+Z:\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.csproj.GenerateResource.Cache
+\\isio\sio\sio2-slam\axel.commergnat\1ere Année\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\bin\Debug\commergnat_boutique.exe.config
+\\isio\sio\sio2-slam\axel.commergnat\1ere Année\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.exe
+\\isio\sio\sio2-slam\axel.commergnat\1ere Année\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.pdb
+\\isio\sio\sio2-slam\axel.commergnat\1ere Année\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\bin\Debug\commergnat_boutique.exe
+\\isio\sio\sio2-slam\axel.commergnat\1ere Année\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\bin\Debug\commergnat_boutique.pdb
+\\isio\sio\sio2-slam\axel.commergnat\1ere Année\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\bin\Debug\itextsharp.dll
+\\isio\sio\sio2-slam\axel.commergnat\1ere Année\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\bin\Debug\MySql.Data.dll
+\\isio\sio\sio2-slam\axel.commergnat\1ere Année\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\bin\Debug\MySql.Data.xml
+\\isio\sio\sio2-slam\axel.commergnat\1ere Année\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.csprojResolveAssemblyReference.cache
+\\isio\sio\sio2-slam\axel.commergnat\1ere Année\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.accueil.resources
+\\isio\sio\sio2-slam\axel.commergnat\1ere Année\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.GestionClient.resources
+\\isio\sio\sio2-slam\axel.commergnat\1ere Année\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.GestionCommande.resources
+\\isio\sio\sio2-slam\axel.commergnat\1ere Année\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.GestionFournisseur.resources
+\\isio\sio\sio2-slam\axel.commergnat\1ere Année\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.GestionLigneComande.resources
+\\isio\sio\sio2-slam\axel.commergnat\1ere Année\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.GestionProduits.resources
+\\isio\sio\sio2-slam\axel.commergnat\1ere Année\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.Properties.Resources.resources
+\\isio\sio\sio2-slam\axel.commergnat\1ere Année\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.csproj.GenerateResource.Cache
+C:\Users\loleur9\Desktop\commergnat_boutique\commergnat_boutique\bin\Debug\commergnat_boutique.exe.config
+C:\Users\loleur9\Desktop\commergnat_boutique\commergnat_boutique\bin\Debug\commergnat_boutique.exe
+C:\Users\loleur9\Desktop\commergnat_boutique\commergnat_boutique\bin\Debug\commergnat_boutique.pdb
+C:\Users\loleur9\Desktop\commergnat_boutique\commergnat_boutique\bin\Debug\MySql.Data.xml
+C:\Users\loleur9\Desktop\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.csprojResolveAssemblyReference.cache
+C:\Users\loleur9\Desktop\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.accueil.resources
+C:\Users\loleur9\Desktop\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.GestionClient.resources
+C:\Users\loleur9\Desktop\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.GestionCommande.resources
+C:\Users\loleur9\Desktop\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.GestionFournisseur.resources
+C:\Users\loleur9\Desktop\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.GestionLigneComande.resources
+C:\Users\loleur9\Desktop\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.GestionProduits.resources
+C:\Users\loleur9\Desktop\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.Properties.Resources.resources
+C:\Users\loleur9\Desktop\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.csproj.GenerateResource.Cache
+C:\Users\loleur9\Desktop\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.csproj.CoreCompileInputs.cache
+C:\Users\loleur9\Desktop\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.exe
+C:\Users\loleur9\Desktop\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.pdb
+\\isio\sio\sio2-slam\axel.commergnat\1ere Année\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.PasserCommande.resources
