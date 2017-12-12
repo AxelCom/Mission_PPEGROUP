@@ -66,3 +66,6 @@ C:\Users\loleur9\Desktop\commergnat_boutique\commergnat_boutique\obj\Debug\comme
 C:\Users\loleur9\Desktop\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.exe
 C:\Users\loleur9\Desktop\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.pdb
 \\isio\sio\sio2-slam\axel.commergnat\1ere Année\Semestre 1\MTI\PPE\PPE2\commergnat_boutique\commergnat_boutique\obj\Debug\commergnat_boutique.PasserCommande.resources
+C:\Users\axel.commergnat\Desktop\commergnat_boutique\PPE\commergnat_boutique\bin\Debug\commergnat_boutique.exe.config
+C:\Users\axel.commergnat\Desktop\commergnat_boutique\PPE\commergnat_boutique\obj\Debug\commergnat_boutique.exe
+C:\Users\axel.commergnat\Desktop\commergnat_boutique\PPE\commergnat_boutique\obj\Debug\commergnat_boutique.pdb
