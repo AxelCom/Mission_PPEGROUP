@@ -19,7 +19,13 @@ namespace commergnat_boutique
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Close();
+            System.Drawing.Graphics graphicsObj;
+
+            graphicsObj = this.CreateGraphics();
+
+            Pen myPen = new Pen(System.Drawing.Color.Red, 5);
+
+            graphicsObj.DrawLine(myPen, 20, 20, 200, 20);
         }
 
         private void gestionDesCommandesToolStripMenuItem_Click(object sender, EventArgs e)

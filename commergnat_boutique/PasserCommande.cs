@@ -19,7 +19,7 @@ namespace commergnat_boutique
 
         private void PasserCommande_Load(object sender, EventArgs e)
         {
-            dgListCommandePassee.DataSource = ClassePasserCommande.getLesCommandesPassees();
+           // dgListCommandePassee.DataSource = ClassePasserCommande.getLesCommandesPassees();
         }
     }
 }

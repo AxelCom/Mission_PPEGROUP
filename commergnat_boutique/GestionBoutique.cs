@@ -29,7 +29,7 @@ namespace commergnat_boutique
                 {
                     Cnx.Close();
                 }
-                maChaine = "server=localhost;Database=commergnat_boutique;Uid=" + login +";Pwd="+ mdp;
+                maChaine = "server=localhost;Database=db_iapmsp2;Uid=" + login +";Pwd="+ mdp;
                 Cnx.ConnectionString = maChaine;
                 Cnx.Open();
                 MonDataSet = new DataSet("CommergnatPPE2");

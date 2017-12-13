@@ -78,3 +78,17 @@ G:\SIO 2017 - 2018\Rouchon\MissionGP\oui\commergnat_boutique\obj\Debug\commergna
 F:\BTS\Projet\Projet groupe\Application\commergnat_boutique\bin\Debug\commergnat_boutique.exe.config
 F:\BTS\Projet\Projet groupe\Application\commergnat_boutique\obj\Debug\commergnat_boutique.exe
 F:\BTS\Projet\Projet groupe\Application\commergnat_boutique\obj\Debug\commergnat_boutique.pdb
+G:\SIO 2017 - 2018\Rouchon\MissionGP\oui\commergnat_boutique\obj\Debug\commergnat_boutique.csprojResolveAssemblyReference.cache
+G:\SIO 2017 - 2018\Rouchon\MissionGP\oui\commergnat_boutique\obj\Debug\commergnat_boutique.accueil.resources
+G:\SIO 2017 - 2018\Rouchon\MissionGP\oui\commergnat_boutique\obj\Debug\commergnat_boutique.GestionClient.resources
+G:\SIO 2017 - 2018\Rouchon\MissionGP\oui\commergnat_boutique\obj\Debug\commergnat_boutique.GestionCommande.resources
+G:\SIO 2017 - 2018\Rouchon\MissionGP\oui\commergnat_boutique\obj\Debug\commergnat_boutique.GestionFournisseur.resources
+G:\SIO 2017 - 2018\Rouchon\MissionGP\oui\commergnat_boutique\obj\Debug\commergnat_boutique.GestionLigneComande.resources
+G:\SIO 2017 - 2018\Rouchon\MissionGP\oui\commergnat_boutique\obj\Debug\commergnat_boutique.GestionProduits.resources
+G:\SIO 2017 - 2018\Rouchon\MissionGP\oui\commergnat_boutique\obj\Debug\commergnat_boutique.PasserCommande.resources
+G:\SIO 2017 - 2018\Rouchon\MissionGP\oui\commergnat_boutique\obj\Debug\commergnat_boutique.Properties.Resources.resources
+G:\SIO 2017 - 2018\Rouchon\MissionGP\oui\commergnat_boutique\obj\Debug\commergnat_boutique.csproj.GenerateResource.Cache
+G:\SIO 2017 - 2018\Rouchon\MissionGP\oui\commergnat_boutique\bin\Debug\commergnat_boutique.exe
+G:\SIO 2017 - 2018\Rouchon\MissionGP\oui\commergnat_boutique\bin\Debug\commergnat_boutique.pdb
+G:\SIO 2017 - 2018\Rouchon\MissionGP\oui\commergnat_boutique\bin\Debug\MySql.Data.dll
+G:\SIO 2017 - 2018\Rouchon\MissionGP\oui\commergnat_boutique\bin\Debug\MySql.Data.xml
