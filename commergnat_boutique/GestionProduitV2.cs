@@ -20,6 +20,7 @@ namespace commergnat_boutique
         private void GestionProduitV2_Load(object sender, EventArgs e)
         {
             DGV_ListProduit.DataSource = ClasseGestionProduit.getLesProduits();
+            CoBox_Filter2.Enabled = false;
             CoBox_Filter.SelectedIndex = 0;
             CoBox_Filter2.SelectedIndex = 0;
         }
@@ -37,15 +38,23 @@ namespace commergnat_boutique
         {
             if (CoBox_Filter.SelectedIndex == 0)
             {
-                
-                DGV_ListProduit2.DataSource = ClasseGestionProduit.getLesproduits("materiel");
+                DGV_ListProduit.DataSource = ClasseGestionProduit.getLesproduits("");
+                DGV_ListProduit2.Visible = false;
             }
 
             if (CoBox_Filter.SelectedIndex == 1)
-            {
+            {               
+                DGV_ListProduit.DataSource = ClasseGestionProduit.getLesproduits("materiel");
+                CoBox_Filter2.Enabled = true;
                 DGV_ListProduit2.Visible = true;
-                DGV_ListProduit2.DataSource = ClasseGestionProduit.getLesproduits("service");
             }
+
+            if (CoBox_Filter.SelectedIndex == 2)
+            {                
+                DGV_ListProduit.DataSource = ClasseGestionProduit.getLesproduits("service");
+                DGV_ListProduit2.Visible = false;
+            }
+
         }
     }
 }
