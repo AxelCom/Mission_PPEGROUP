@@ -30,9 +30,9 @@
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.CoBox_Filter = new System.Windows.Forms.ComboBox();
-            this.TxBox_FilterValue = new System.Windows.Forms.TextBox();
             this.DGV_ListProduit = new System.Windows.Forms.DataGridView();
             this.DGV_ListProduit2 = new System.Windows.Forms.DataGridView();
+            this.CoBox_Filter2 = new System.Windows.Forms.ComboBox();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.DGV_ListProduit)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.DGV_ListProduit2)).BeginInit();
@@ -40,11 +40,11 @@
             // 
             // groupBox1
             // 
-            this.groupBox1.Controls.Add(this.TxBox_FilterValue);
+            this.groupBox1.Controls.Add(this.CoBox_Filter2);
             this.groupBox1.Controls.Add(this.CoBox_Filter);
             this.groupBox1.Location = new System.Drawing.Point(12, 12);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(212, 77);
+            this.groupBox1.Size = new System.Drawing.Size(289, 52);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Filtre";
@@ -54,31 +54,32 @@
             this.CoBox_Filter.FormattingEnabled = true;
             this.CoBox_Filter.Location = new System.Drawing.Point(6, 19);
             this.CoBox_Filter.Name = "CoBox_Filter";
-            this.CoBox_Filter.Size = new System.Drawing.Size(173, 21);
+            this.CoBox_Filter.Size = new System.Drawing.Size(135, 21);
             this.CoBox_Filter.TabIndex = 0;
-            // 
-            // TxBox_FilterValue
-            // 
-            this.TxBox_FilterValue.Location = new System.Drawing.Point(7, 47);
-            this.TxBox_FilterValue.Name = "TxBox_FilterValue";
-            this.TxBox_FilterValue.Size = new System.Drawing.Size(172, 20);
-            this.TxBox_FilterValue.TabIndex = 1;
             // 
             // DGV_ListProduit
             // 
             this.DGV_ListProduit.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.DGV_ListProduit.Location = new System.Drawing.Point(12, 95);
+            this.DGV_ListProduit.Location = new System.Drawing.Point(12, 71);
             this.DGV_ListProduit.Name = "DGV_ListProduit";
-            this.DGV_ListProduit.Size = new System.Drawing.Size(240, 150);
+            this.DGV_ListProduit.Size = new System.Drawing.Size(514, 317);
             this.DGV_ListProduit.TabIndex = 1;
             // 
             // DGV_ListProduit2
             // 
             this.DGV_ListProduit2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.DGV_ListProduit2.Location = new System.Drawing.Point(275, 95);
+            this.DGV_ListProduit2.Location = new System.Drawing.Point(616, 71);
             this.DGV_ListProduit2.Name = "DGV_ListProduit2";
             this.DGV_ListProduit2.Size = new System.Drawing.Size(240, 150);
             this.DGV_ListProduit2.TabIndex = 2;
+            // 
+            // CoBox_Filter2
+            // 
+            this.CoBox_Filter2.FormattingEnabled = true;
+            this.CoBox_Filter2.Location = new System.Drawing.Point(147, 19);
+            this.CoBox_Filter2.Name = "CoBox_Filter2";
+            this.CoBox_Filter2.Size = new System.Drawing.Size(135, 21);
+            this.CoBox_Filter2.TabIndex = 1;
             // 
             // GestionProduitV2
             // 
@@ -92,7 +93,6 @@
             this.Text = "Gestion des produits";
             this.Load += new System.EventHandler(this.GestionProduitV2_Load);
             this.groupBox1.ResumeLayout(false);
-            this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.DGV_ListProduit)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.DGV_ListProduit2)).EndInit();
             this.ResumeLayout(false);
@@ -102,9 +102,9 @@
         #endregion
 
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.TextBox TxBox_FilterValue;
         private System.Windows.Forms.ComboBox CoBox_Filter;
         private System.Windows.Forms.DataGridView DGV_ListProduit;
         private System.Windows.Forms.DataGridView DGV_ListProduit2;
+        private System.Windows.Forms.ComboBox CoBox_Filter2;
     }
 }
