@@ -23,6 +23,16 @@ namespace commergnat_boutique
         {
             return GestionBoutique.ExecuterRequeteSelect("CALL InfosProduits('" + TypeProduit + "'"); //Procédure stockée renvoyant les produits spécifiques au paramètre renseigné
         }
+
+        public static DataTable getLesProduitsCA()
+        {
+            return GestionBoutique.ExecuterRequeteSelect("CALL InfosCAProduits('')"); //Procédure stockée renvoyant le chiffre d'affaire de tous les produits
+        }
+
+        public static DataTable getLesProduitsCA(string TypeProduit)
+        {
+            return GestionBoutique.ExecuterRequeteSelect("CALL InfosCAProduits('" + TypeProduit + "'"); //Procédure stockée renvoyant le chiffre d'affaire spécifique au paramètre renseigné
+        }
         public static DataTable getLesCategories()
         {
             return GestionBoutique.ExecuterRequeteSelect("SELECT * FROM Categorie");
