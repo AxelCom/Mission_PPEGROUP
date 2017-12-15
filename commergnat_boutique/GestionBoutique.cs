@@ -22,7 +22,7 @@ namespace commergnat_boutique
         #endregion
 
         #region méthodes statiques
-        public static void seConnecter(string login, string mdp) //salut
+        public static void seConnecter(string login, string mdp)
         {
             ConnectionInfo cnxInfo = new ConnectionInfo("172.16.16.0", "paulsalban", new PasswordAuthenticationMethod("paulsalban", "sa59s"));
             MySqlConnectionStringBuilder cnxBld = new MySqlConnectionStringBuilder();
