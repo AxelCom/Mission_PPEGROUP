@@ -62,7 +62,7 @@ namespace commergnat_boutique
 
         private void accueil_Load(object sender, EventArgs e)
         {
-            GestionBoutique.seConnecter("root","");
+            GestionBoutique.seConnecter("paulsaban","sa59s");
         }
 
         private void réapprovisionnementToolStripMenuItem_Click(object sender, EventArgs e)
