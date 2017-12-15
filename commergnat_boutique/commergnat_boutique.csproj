@@ -97,6 +97,12 @@
     <Compile Include="GestionProduits.Designer.cs">
       <DependentUpon>GestionProduits.cs</DependentUpon>
     </Compile>
+    <Compile Include="GestionProduitV2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionProduitV2.Designer.cs">
+      <DependentUpon>GestionProduitV2.cs</DependentUpon>
+    </Compile>
     <Compile Include="PasserCommande.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -122,6 +128,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="GestionProduits.resx">
       <DependentUpon>GestionProduits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionProduitV2.resx">
+      <DependentUpon>GestionProduitV2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="PasserCommande.resx">
       <DependentUpon>PasserCommande.cs</DependentUpon>

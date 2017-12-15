@@ -114,3 +114,19 @@ G:\SIO 2017 - 2018\Rouchon\MissionGP\App\Mission_PPEGROUP\commergnat_boutique\ob
 G:\SIO 2017 - 2018\Rouchon\MissionGP\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.PasserCommande.resources
 G:\SIO 2017 - 2018\Rouchon\MissionGP\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.Properties.Resources.resources
 G:\SIO 2017 - 2018\Rouchon\MissionGP\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.csproj.GenerateResource.Cache
+F:\BTS\Projet\Projet groupe\App\Mission_PPEGROUP\commergnat_boutique\bin\Debug\commergnat_boutique.exe
+F:\BTS\Projet\Projet groupe\App\Mission_PPEGROUP\commergnat_boutique\bin\Debug\commergnat_boutique.pdb
+F:\BTS\Projet\Projet groupe\App\Mission_PPEGROUP\commergnat_boutique\bin\Debug\MySql.Data.dll
+F:\BTS\Projet\Projet groupe\App\Mission_PPEGROUP\commergnat_boutique\bin\Debug\Renci.SshNet.dll
+F:\BTS\Projet\Projet groupe\App\Mission_PPEGROUP\commergnat_boutique\bin\Debug\MySql.Data.xml
+F:\BTS\Projet\Projet groupe\App\Mission_PPEGROUP\commergnat_boutique\bin\Debug\Renci.SshNet.xml
+F:\BTS\Projet\Projet groupe\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.csprojResolveAssemblyReference.cache
+F:\BTS\Projet\Projet groupe\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.accueil.resources
+F:\BTS\Projet\Projet groupe\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.GestionClient.resources
+F:\BTS\Projet\Projet groupe\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.GestionCommande.resources
+F:\BTS\Projet\Projet groupe\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.GestionFournisseur.resources
+F:\BTS\Projet\Projet groupe\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.GestionLigneComande.resources
+F:\BTS\Projet\Projet groupe\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.GestionProduits.resources
+F:\BTS\Projet\Projet groupe\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.PasserCommande.resources
+F:\BTS\Projet\Projet groupe\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.Properties.Resources.resources
+F:\BTS\Projet\Projet groupe\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.csproj.GenerateResource.Cache
