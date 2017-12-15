@@ -25,36 +25,33 @@ namespace commergnat_boutique
             CoBox_Filter2.SelectedIndex = 0;
         }
 
-        public void Rafraichir()
-        {
-
-        //    txtbDateCom.Text = dataGridView1.Rows[position].Cells[1].Value.ToString();
-        //    txtbNumCom.Text = dataGridView1.Rows[position].Cells[0].Value.ToString();
-        //    cbNomCli.Text = dataGridView1.Rows[position].Cells[2].Value.ToString();
-        //    dataGridView1.CurrentCell = dataGridView1[0, position];
-        }
-
         private void CoBox_Filter_SelectedIndexChanged(object sender, EventArgs e)
         {
             if (CoBox_Filter.SelectedIndex == 0)
             {
                 DGV_ListProduit.DataSource = ClasseGestionProduit.getLesproduits("");
+                CoBox_Filter2.Enabled = false;
+                DGV_ListProduit2.Visible = false;
+            } else if (CoBox_Filter.SelectedIndex == 1) {                           
+                DGV_ListProduit.DataSource = ClasseGestionProduit.getLesproduits("materiel");
+                CoBox_Filter2.Enabled = true;               
+            } else if (CoBox_Filter.SelectedIndex == 2) {                
+                DGV_ListProduit.DataSource = ClasseGestionProduit.getLesproduits("service");
+                CoBox_Filter2.Enabled = false;
                 DGV_ListProduit2.Visible = false;
             }
+        }
 
-            if (CoBox_Filter.SelectedIndex == 1)
-            {               
+        private void CoBox_Filter2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            if (CoBox_Filter2.SelectedIndex == 0 && CoBox_Filter2.Enabled == true) {
                 DGV_ListProduit.DataSource = ClasseGestionProduit.getLesproduits("materiel");
-                CoBox_Filter2.Enabled = true;
+            } else if (CoBox_Filter2.SelectedIndex == 1) {
+                DGV_ListProduit.DataSource = ClasseGestionProduit.getLesproduits("simple");
+            } else if (CoBox_Filter2.SelectedIndex == 2) {
+                DGV_ListProduit.DataSource = ClasseGestionProduit.getLesproduits("complexe");
                 DGV_ListProduit2.Visible = true;
             }
-
-            if (CoBox_Filter.SelectedIndex == 2)
-            {                
-                DGV_ListProduit.DataSource = ClasseGestionProduit.getLesproduits("service");
-                DGV_ListProduit2.Visible = false;
-            }
-
         }
     }
 }

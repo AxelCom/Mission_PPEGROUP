@@ -54,12 +54,14 @@
             this.CoBox_Filter2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CoBox_Filter2.FormattingEnabled = true;
             this.CoBox_Filter2.Items.AddRange(new object[] {
+            "Tous",
             "Simple",
             "Complexe"});
             this.CoBox_Filter2.Location = new System.Drawing.Point(147, 19);
             this.CoBox_Filter2.Name = "CoBox_Filter2";
             this.CoBox_Filter2.Size = new System.Drawing.Size(135, 21);
             this.CoBox_Filter2.TabIndex = 1;
+            this.CoBox_Filter2.SelectedIndexChanged += new System.EventHandler(this.CoBox_Filter2_SelectedIndexChanged);
             // 
             // CoBox_Filter
             // 
