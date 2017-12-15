@@ -37,7 +37,7 @@ namespace commergnat_boutique
         {
             if (CoBox_Filter.SelectedIndex == 0)
             {
-                DGV_ListProduit2.Visible = true;
+                
                 DGV_ListProduit2.DataSource = ClasseGestionProduit.getLesproduits("materiel");
             }
 

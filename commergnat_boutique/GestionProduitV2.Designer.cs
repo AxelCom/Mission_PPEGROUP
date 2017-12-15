@@ -66,6 +66,7 @@
             this.CoBox_Filter.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CoBox_Filter.FormattingEnabled = true;
             this.CoBox_Filter.Items.AddRange(new object[] {
+            "Tous les produits",
             "Matériel",
             "Service"});
             this.CoBox_Filter.Location = new System.Drawing.Point(6, 19);
