@@ -33,6 +33,7 @@
             this.CoBox_Filter = new System.Windows.Forms.ComboBox();
             this.DGV_ListProduit = new System.Windows.Forms.DataGridView();
             this.DGV_ListProduit2 = new System.Windows.Forms.DataGridView();
+            this.tbIdSimple = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.DGV_ListProduit)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.DGV_ListProduit2)).BeginInit();
@@ -93,12 +94,22 @@
             this.DGV_ListProduit2.Size = new System.Drawing.Size(240, 150);
             this.DGV_ListProduit2.TabIndex = 2;
             this.DGV_ListProduit2.Visible = false;
+            this.DGV_ListProduit2.CellMouseClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.DGV_ListProduit2_CellMouseClick);
+            // 
+            // tbIdSimple
+            // 
+            this.tbIdSimple.Location = new System.Drawing.Point(42, 436);
+            this.tbIdSimple.Name = "tbIdSimple";
+            this.tbIdSimple.Size = new System.Drawing.Size(28, 20);
+            this.tbIdSimple.TabIndex = 3;
+            this.tbIdSimple.Visible = false;
             // 
             // GestionProduitV2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(903, 508);
+            this.Controls.Add(this.tbIdSimple);
             this.Controls.Add(this.DGV_ListProduit2);
             this.Controls.Add(this.DGV_ListProduit);
             this.Controls.Add(this.groupBox1);
@@ -109,6 +120,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.DGV_ListProduit)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.DGV_ListProduit2)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -119,5 +131,6 @@
         private System.Windows.Forms.DataGridView DGV_ListProduit;
         private System.Windows.Forms.DataGridView DGV_ListProduit2;
         private System.Windows.Forms.ComboBox CoBox_Filter2;
+        private System.Windows.Forms.TextBox tbIdSimple;
     }
 }

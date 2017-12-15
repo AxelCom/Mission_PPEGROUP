@@ -23,6 +23,10 @@ namespace commergnat_boutique
         {
             return GestionBoutique.ExecuterRequeteSelect("CALL InfosProduits('" + TypeProduit + "')"); //Procédure stockée renvoyant les produits spécifiques au paramètre renseigné
         }
+        public static DataTable getLesproduitsById(int id) //a revoir, procédure en cour de réalisation
+        {
+            return GestionBoutique.ExecuterRequeteSelect("CALL InfosProduitSimpleById('" + id + "')"); //Procédure stockée renvoyant les produits spécifiques au paramètre renseigné
+        }
 
         public static DataTable getLesProduitsCA()
         {

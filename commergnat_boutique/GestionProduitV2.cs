@@ -53,5 +53,13 @@ namespace commergnat_boutique
                 DGV_ListProduit2.Visible = true;
             }
         }
+
+        private void DGV_ListProduit2_CellMouseClick(object sender, DataGridViewCellMouseEventArgs e)
+        {
+            int id;
+            tbIdSimple.Text = DGV_ListProduit.CurrentRow.Cells[0].Value.ToString();
+            id = Convert.ToInt32(tbIdSimple.Text);
+            DGV_ListProduit2.DataSource = ClasseGestionProduit.getLesproduitsById(id);
+        }
     }
 }
