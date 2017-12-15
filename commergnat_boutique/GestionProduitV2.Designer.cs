@@ -29,10 +29,10 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.CoBox_Filter2 = new System.Windows.Forms.ComboBox();
             this.CoBox_Filter = new System.Windows.Forms.ComboBox();
             this.DGV_ListProduit = new System.Windows.Forms.DataGridView();
             this.DGV_ListProduit2 = new System.Windows.Forms.DataGridView();
-            this.CoBox_Filter2 = new System.Windows.Forms.ComboBox();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.DGV_ListProduit)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.DGV_ListProduit2)).BeginInit();
@@ -49,13 +49,30 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Filtre";
             // 
+            // CoBox_Filter2
+            // 
+            this.CoBox_Filter2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.CoBox_Filter2.FormattingEnabled = true;
+            this.CoBox_Filter2.Items.AddRange(new object[] {
+            "Simple",
+            "Complexe"});
+            this.CoBox_Filter2.Location = new System.Drawing.Point(147, 19);
+            this.CoBox_Filter2.Name = "CoBox_Filter2";
+            this.CoBox_Filter2.Size = new System.Drawing.Size(135, 21);
+            this.CoBox_Filter2.TabIndex = 1;
+            // 
             // CoBox_Filter
             // 
+            this.CoBox_Filter.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.CoBox_Filter.FormattingEnabled = true;
+            this.CoBox_Filter.Items.AddRange(new object[] {
+            "Matériel",
+            "Service"});
             this.CoBox_Filter.Location = new System.Drawing.Point(6, 19);
             this.CoBox_Filter.Name = "CoBox_Filter";
             this.CoBox_Filter.Size = new System.Drawing.Size(135, 21);
             this.CoBox_Filter.TabIndex = 0;
+            this.CoBox_Filter.SelectedIndexChanged += new System.EventHandler(this.CoBox_Filter_SelectedIndexChanged);
             // 
             // DGV_ListProduit
             // 
@@ -72,14 +89,7 @@
             this.DGV_ListProduit2.Name = "DGV_ListProduit2";
             this.DGV_ListProduit2.Size = new System.Drawing.Size(240, 150);
             this.DGV_ListProduit2.TabIndex = 2;
-            // 
-            // CoBox_Filter2
-            // 
-            this.CoBox_Filter2.FormattingEnabled = true;
-            this.CoBox_Filter2.Location = new System.Drawing.Point(147, 19);
-            this.CoBox_Filter2.Name = "CoBox_Filter2";
-            this.CoBox_Filter2.Size = new System.Drawing.Size(135, 21);
-            this.CoBox_Filter2.TabIndex = 1;
+            this.DGV_ListProduit2.Visible = false;
             // 
             // GestionProduitV2
             // 

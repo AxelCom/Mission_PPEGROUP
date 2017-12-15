@@ -144,6 +144,7 @@
             this.cbNomCli.Name = "cbNomCli";
             this.cbNomCli.Size = new System.Drawing.Size(121, 21);
             this.cbNomCli.TabIndex = 9;
+
             // 
             // groupBox1
             // 

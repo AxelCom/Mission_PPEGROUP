@@ -130,3 +130,4 @@ F:\BTS\Projet\Projet groupe\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\c
 F:\BTS\Projet\Projet groupe\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.PasserCommande.resources
 F:\BTS\Projet\Projet groupe\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.Properties.Resources.resources
 F:\BTS\Projet\Projet groupe\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.csproj.GenerateResource.Cache
+G:\SIO 2017 - 2018\Rouchon\MissionGP\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.GestionProduitV2.resources

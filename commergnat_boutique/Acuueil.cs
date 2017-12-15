@@ -19,13 +19,7 @@ namespace commergnat_boutique
 
         private void button1_Click(object sender, EventArgs e)
         {
-            System.Drawing.Graphics graphicsObj;
-
-            graphicsObj = this.CreateGraphics();
-
-            Pen myPen = new Pen(System.Drawing.Color.Red, 5);
-
-            graphicsObj.DrawLine(myPen, 20, 20, 200, 20);
+            Application.Exit();
         }
 
         private void gestionDesCommandesToolStripMenuItem_Click(object sender, EventArgs e)
@@ -54,7 +48,7 @@ namespace commergnat_boutique
 
         private void listeDesProduitsToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            GestionProduits FrmGestProduit = new GestionProduits();
+            GestionProduitV2 FrmGestProduit = new GestionProduitV2();
             FrmGestProduit.MdiParent = this;
             FrmGestProduit.StartPosition = FormStartPosition.CenterScreen;
             FrmGestProduit.Show();
