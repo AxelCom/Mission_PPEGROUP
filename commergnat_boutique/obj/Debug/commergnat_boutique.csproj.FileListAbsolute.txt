@@ -92,3 +92,6 @@ G:\SIO 2017 - 2018\Rouchon\MissionGP\oui\commergnat_boutique\bin\Debug\commergna
 G:\SIO 2017 - 2018\Rouchon\MissionGP\oui\commergnat_boutique\bin\Debug\commergnat_boutique.pdb
 G:\SIO 2017 - 2018\Rouchon\MissionGP\oui\commergnat_boutique\bin\Debug\MySql.Data.dll
 G:\SIO 2017 - 2018\Rouchon\MissionGP\oui\commergnat_boutique\bin\Debug\MySql.Data.xml
+F:\BTS\Projet\Projet groupe\App\Mission_PPEGROUP\commergnat_boutique\bin\Debug\commergnat_boutique.exe.config
+F:\BTS\Projet\Projet groupe\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.exe
+F:\BTS\Projet\Projet groupe\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.pdb

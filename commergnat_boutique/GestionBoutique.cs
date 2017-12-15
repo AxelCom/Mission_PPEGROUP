@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
 using System.Data;
 using System.Windows.Forms;
+using Renci.SshNet;
 
 namespace commergnat_boutique
 {
@@ -23,13 +24,27 @@ namespace commergnat_boutique
         #region méthodes statiques
         public static void seConnecter(string login, string mdp)
         {
+            ConnectionInfo cnxInfo = new ConnectionInfo("172.16.16.0", "paulsalban", new PasswordAuthenticationMethod("paulsalban", "sa59s"));
+            MySqlConnectionStringBuilder cnxBld = new MySqlConnectionStringBuilder();
+            cnxBld.AllowBatch = true;
+            cnxBld.Server = "localhost";
+            cnxBld.Database = "paulsalban1";
+            cnxBld.UserID = login;
+            cnxBld.Password = mdp;
+
+            SshClient sshClient = new SshClient(cnxInfo);
+            ForwardedPortLocal port = new ForwardedPortLocal("127.0.0.1", 0, "127.0.0.1", 3306);
+            sshClient.Connect();
+            sshClient.AddForwardedPort(port);
+            port.Start();
+            cnxBld.Port = port.BoundPort;
             try
             {
                 if (Cnx.State == ConnectionState.Open)
                 {
                     Cnx.Close();
                 }
-                maChaine = "server=localhost;Database=db_iapmsp2;Uid=" + login +";Pwd="+ mdp;
+                maChaine = cnxBld.ConnectionString;
                 Cnx.ConnectionString = maChaine;
                 Cnx.Open();
                 MonDataSet = new DataSet("CommergnatPPE2");
