@@ -54,12 +54,12 @@ namespace commergnat_boutique
             }
         }
 
-        private void DGV_ListProduit2_CellMouseClick(object sender, DataGridViewCellMouseEventArgs e)
+        private void DGV_ListProduit_SelectionChanged(object sender, EventArgs e)
         {
-            int id;
-            tbIdSimple.Text = DGV_ListProduit.CurrentRow.Cells[0].Value.ToString();
-            id = Convert.ToInt32(tbIdSimple.Text);
-            DGV_ListProduit2.DataSource = ClasseGestionProduit.getLesproduitsById(id);
+            if (CoBox_Filter2.SelectedIndex == 2)
+            {
+                DGV_ListProduit2.DataSource = ClasseGestionProduit.getLesProduits(Convert.ToInt16(DGV_ListProduit.CurrentRow.Cells[0].Value));
+            }
         }
     }
 }

@@ -33,7 +33,6 @@
             this.CoBox_Filter = new System.Windows.Forms.ComboBox();
             this.DGV_ListProduit = new System.Windows.Forms.DataGridView();
             this.DGV_ListProduit2 = new System.Windows.Forms.DataGridView();
-            this.tbIdSimple = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.DGV_ListProduit)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.DGV_ListProduit2)).BeginInit();
@@ -80,36 +79,41 @@
             // 
             // DGV_ListProduit
             // 
+            this.DGV_ListProduit.AllowUserToAddRows = false;
+            this.DGV_ListProduit.AllowUserToDeleteRows = false;
+            this.DGV_ListProduit.AllowUserToResizeColumns = false;
+            this.DGV_ListProduit.AllowUserToResizeRows = false;
+            this.DGV_ListProduit.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.DGV_ListProduit.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.DGV_ListProduit.Location = new System.Drawing.Point(12, 71);
             this.DGV_ListProduit.Name = "DGV_ListProduit";
+            this.DGV_ListProduit.RowHeadersVisible = false;
+            this.DGV_ListProduit.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.DGV_ListProduit.Size = new System.Drawing.Size(514, 317);
             this.DGV_ListProduit.TabIndex = 1;
+            this.DGV_ListProduit.SelectionChanged += new System.EventHandler(this.DGV_ListProduit_SelectionChanged);
             // 
             // DGV_ListProduit2
             // 
+            this.DGV_ListProduit2.AllowUserToAddRows = false;
+            this.DGV_ListProduit2.AllowUserToDeleteRows = false;
+            this.DGV_ListProduit2.AllowUserToOrderColumns = true;
+            this.DGV_ListProduit2.AllowUserToResizeColumns = false;
+            this.DGV_ListProduit2.AllowUserToResizeRows = false;
+            this.DGV_ListProduit2.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.DGV_ListProduit2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.DGV_ListProduit2.Location = new System.Drawing.Point(616, 71);
+            this.DGV_ListProduit2.Location = new System.Drawing.Point(532, 71);
             this.DGV_ListProduit2.Name = "DGV_ListProduit2";
-            this.DGV_ListProduit2.Size = new System.Drawing.Size(240, 150);
+            this.DGV_ListProduit2.RowHeadersVisible = false;
+            this.DGV_ListProduit2.Size = new System.Drawing.Size(284, 250);
             this.DGV_ListProduit2.TabIndex = 2;
             this.DGV_ListProduit2.Visible = false;
-            this.DGV_ListProduit2.CellMouseClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.DGV_ListProduit2_CellMouseClick);
-            // 
-            // tbIdSimple
-            // 
-            this.tbIdSimple.Location = new System.Drawing.Point(42, 436);
-            this.tbIdSimple.Name = "tbIdSimple";
-            this.tbIdSimple.Size = new System.Drawing.Size(28, 20);
-            this.tbIdSimple.TabIndex = 3;
-            this.tbIdSimple.Visible = false;
             // 
             // GestionProduitV2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(903, 508);
-            this.Controls.Add(this.tbIdSimple);
             this.Controls.Add(this.DGV_ListProduit2);
             this.Controls.Add(this.DGV_ListProduit);
             this.Controls.Add(this.groupBox1);
@@ -120,7 +124,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.DGV_ListProduit)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.DGV_ListProduit2)).EndInit();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
@@ -131,6 +134,5 @@
         private System.Windows.Forms.DataGridView DGV_ListProduit;
         private System.Windows.Forms.DataGridView DGV_ListProduit2;
         private System.Windows.Forms.ComboBox CoBox_Filter2;
-        private System.Windows.Forms.TextBox tbIdSimple;
     }
 }

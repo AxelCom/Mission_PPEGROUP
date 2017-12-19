@@ -131,23 +131,4 @@ F:\BTS\Projet\Projet groupe\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\c
 F:\BTS\Projet\Projet groupe\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.Properties.Resources.resources
 F:\BTS\Projet\Projet groupe\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.csproj.GenerateResource.Cache
 G:\SIO 2017 - 2018\Rouchon\MissionGP\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.GestionProduitV2.resources
-C:\Users\dorian.sonzogni\Documents\Visual Studio 2015\Groupe\Grp\Mission_PPEGROUP\commergnat_boutique\bin\Debug\commergnat_boutique.exe.config
-C:\Users\dorian.sonzogni\Documents\Visual Studio 2015\Groupe\Grp\Mission_PPEGROUP\commergnat_boutique\bin\Debug\commergnat_boutique.exe
-C:\Users\dorian.sonzogni\Documents\Visual Studio 2015\Groupe\Grp\Mission_PPEGROUP\commergnat_boutique\bin\Debug\commergnat_boutique.pdb
-C:\Users\dorian.sonzogni\Documents\Visual Studio 2015\Groupe\Grp\Mission_PPEGROUP\commergnat_boutique\bin\Debug\MySql.Data.dll
-C:\Users\dorian.sonzogni\Documents\Visual Studio 2015\Groupe\Grp\Mission_PPEGROUP\commergnat_boutique\bin\Debug\Renci.SshNet.dll
-C:\Users\dorian.sonzogni\Documents\Visual Studio 2015\Groupe\Grp\Mission_PPEGROUP\commergnat_boutique\bin\Debug\MySql.Data.xml
-C:\Users\dorian.sonzogni\Documents\Visual Studio 2015\Groupe\Grp\Mission_PPEGROUP\commergnat_boutique\bin\Debug\Renci.SshNet.xml
-C:\Users\dorian.sonzogni\Documents\Visual Studio 2015\Groupe\Grp\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.csprojResolveAssemblyReference.cache
-C:\Users\dorian.sonzogni\Documents\Visual Studio 2015\Groupe\Grp\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.accueil.resources
-C:\Users\dorian.sonzogni\Documents\Visual Studio 2015\Groupe\Grp\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.GestionClient.resources
-C:\Users\dorian.sonzogni\Documents\Visual Studio 2015\Groupe\Grp\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.GestionCommande.resources
-C:\Users\dorian.sonzogni\Documents\Visual Studio 2015\Groupe\Grp\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.GestionFournisseur.resources
-C:\Users\dorian.sonzogni\Documents\Visual Studio 2015\Groupe\Grp\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.GestionLigneComande.resources
-C:\Users\dorian.sonzogni\Documents\Visual Studio 2015\Groupe\Grp\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.GestionProduits.resources
-C:\Users\dorian.sonzogni\Documents\Visual Studio 2015\Groupe\Grp\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.GestionProduitV2.resources
-C:\Users\dorian.sonzogni\Documents\Visual Studio 2015\Groupe\Grp\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.PasserCommande.resources
-C:\Users\dorian.sonzogni\Documents\Visual Studio 2015\Groupe\Grp\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.Properties.Resources.resources
-C:\Users\dorian.sonzogni\Documents\Visual Studio 2015\Groupe\Grp\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.csproj.GenerateResource.Cache
-C:\Users\dorian.sonzogni\Documents\Visual Studio 2015\Groupe\Grp\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.exe
-C:\Users\dorian.sonzogni\Documents\Visual Studio 2015\Groupe\Grp\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.pdb
+F:\BTS\Projet\Projet groupe\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.GestionProduitV2.resources
