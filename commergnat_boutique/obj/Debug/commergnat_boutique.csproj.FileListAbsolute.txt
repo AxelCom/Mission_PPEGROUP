@@ -152,3 +152,4 @@ D:\Cours\BTS\SIO 2017 - 2018\Rouchon\MissionGP\App\Mission_PPEGROUP\commergnat_b
 D:\Cours\BTS\SIO 2017 - 2018\Rouchon\MissionGP\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.Properties.Resources.resources
 D:\Cours\BTS\SIO 2017 - 2018\Rouchon\MissionGP\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.csproj.GenerateResource.Cache
 D:\Cours\BTS\SIO 2017 - 2018\Rouchon\MissionGP\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.FormCA.resources
+F:\BTS\Projet\Projet groupe\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.FormCA.resources
