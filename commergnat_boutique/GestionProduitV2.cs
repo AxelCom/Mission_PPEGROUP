@@ -32,6 +32,7 @@ namespace commergnat_boutique
                 DGV_ListProduit.DataSource = ClasseGestionProduit.getLesproduits("");
                 CoBox_Filter2.Enabled = false;
                 DGV_ListProduit2.Visible = false;
+                RcTxBoxProduit2.Visible = false;
             } else if (CoBox_Filter.SelectedIndex == 1) {                           
                 DGV_ListProduit.DataSource = ClasseGestionProduit.getLesproduits("materiel");
                 CoBox_Filter2.Enabled = true;               
@@ -39,6 +40,7 @@ namespace commergnat_boutique
                 DGV_ListProduit.DataSource = ClasseGestionProduit.getLesproduits("service");
                 CoBox_Filter2.Enabled = false;
                 DGV_ListProduit2.Visible = false;
+                RcTxBoxProduit2.Visible = false;
             }
         }
 
@@ -46,11 +48,14 @@ namespace commergnat_boutique
         {
             if (CoBox_Filter2.SelectedIndex == 0 && CoBox_Filter2.Enabled == true) {
                 DGV_ListProduit.DataSource = ClasseGestionProduit.getLesproduits("materiel");
+                RcTxBoxProduit2.Visible = false;
             } else if (CoBox_Filter2.SelectedIndex == 1) {
                 DGV_ListProduit.DataSource = ClasseGestionProduit.getLesproduits("simple");
+                RcTxBoxProduit2.Visible = false;
             } else if (CoBox_Filter2.SelectedIndex == 2) {
                 DGV_ListProduit.DataSource = ClasseGestionProduit.getLesproduits("complexe");
                 DGV_ListProduit2.Visible = true;
+                RcTxBoxProduit2.Visible = true;
             }
         }
 
@@ -60,6 +65,12 @@ namespace commergnat_boutique
             {
                 DGV_ListProduit2.DataSource = ClasseGestionProduit.getLesProduits(Convert.ToInt16(DGV_ListProduit.CurrentRow.Cells[0].Value));
             }
+            RcTxBoxDescription.Text = ClasseGestionProduit.getDescriptionProduit(Convert.ToInt16(DGV_ListProduit.CurrentRow.Cells[0].Value));
+        }
+
+        private void DGV_ListProduit2_SelectionChanged(object sender, EventArgs e)
+        {
+            RcTxBoxProduit2.Text = ClasseGestionProduit.getDescriptionProduit(Convert.ToInt16(DGV_ListProduit2.CurrentRow.Cells[0].Value));
         }
     }
 }

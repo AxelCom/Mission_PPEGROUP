@@ -63,6 +63,13 @@ namespace commergnat_boutique
             DataAdapt.SelectCommand = Cmd;
             return Convert.ToInt32(Cmd.ExecuteScalar()) + 1;
         }
+
+        public static string GetStringFromTable(string request)
+        {
+            Cmd.CommandText = request;
+            DataAdapt.SelectCommand = Cmd;
+            return Cmd.ExecuteScalar().ToString();
+        }
         public static DataTable ExecuterRequeteSelect(string marequeteselect)
         {
             DataTable result;

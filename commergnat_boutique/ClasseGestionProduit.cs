@@ -29,6 +29,11 @@ namespace commergnat_boutique
             return GestionBoutique.ExecuterRequeteSelect("CALL SimpleDansComplexe(" + idComplexe + ")");
         }
 
+        public static string getDescriptionProduit(int idProduit)
+        {
+            return GestionBoutique.GetStringFromTable("CALL GetDescriptionProduit(" + idProduit + ")");
+        }
+
         public static DataTable getLesProduitsCA()
         {
             return GestionBoutique.ExecuterRequeteSelect("CALL InfosCAProduits('')"); //Procédure stockée renvoyant le chiffre d'affaire de tous les produits
