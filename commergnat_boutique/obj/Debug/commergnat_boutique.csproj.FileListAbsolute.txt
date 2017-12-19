@@ -132,3 +132,23 @@ F:\BTS\Projet\Projet groupe\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\c
 F:\BTS\Projet\Projet groupe\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.csproj.GenerateResource.Cache
 G:\SIO 2017 - 2018\Rouchon\MissionGP\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.GestionProduitV2.resources
 F:\BTS\Projet\Projet groupe\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.GestionProduitV2.resources
+D:\Cours\BTS\SIO 2017 - 2018\Rouchon\MissionGP\App\Mission_PPEGROUP\commergnat_boutique\bin\Debug\commergnat_boutique.exe.config
+D:\Cours\BTS\SIO 2017 - 2018\Rouchon\MissionGP\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.exe
+D:\Cours\BTS\SIO 2017 - 2018\Rouchon\MissionGP\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.pdb
+D:\Cours\BTS\SIO 2017 - 2018\Rouchon\MissionGP\App\Mission_PPEGROUP\commergnat_boutique\bin\Debug\commergnat_boutique.exe
+D:\Cours\BTS\SIO 2017 - 2018\Rouchon\MissionGP\App\Mission_PPEGROUP\commergnat_boutique\bin\Debug\commergnat_boutique.pdb
+D:\Cours\BTS\SIO 2017 - 2018\Rouchon\MissionGP\App\Mission_PPEGROUP\commergnat_boutique\bin\Debug\Renci.SshNet.dll
+D:\Cours\BTS\SIO 2017 - 2018\Rouchon\MissionGP\App\Mission_PPEGROUP\commergnat_boutique\bin\Debug\MySql.Data.xml
+D:\Cours\BTS\SIO 2017 - 2018\Rouchon\MissionGP\App\Mission_PPEGROUP\commergnat_boutique\bin\Debug\Renci.SshNet.xml
+D:\Cours\BTS\SIO 2017 - 2018\Rouchon\MissionGP\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.csprojResolveAssemblyReference.cache
+D:\Cours\BTS\SIO 2017 - 2018\Rouchon\MissionGP\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.accueil.resources
+D:\Cours\BTS\SIO 2017 - 2018\Rouchon\MissionGP\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.GestionClient.resources
+D:\Cours\BTS\SIO 2017 - 2018\Rouchon\MissionGP\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.GestionCommande.resources
+D:\Cours\BTS\SIO 2017 - 2018\Rouchon\MissionGP\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.GestionFournisseur.resources
+D:\Cours\BTS\SIO 2017 - 2018\Rouchon\MissionGP\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.GestionLigneComande.resources
+D:\Cours\BTS\SIO 2017 - 2018\Rouchon\MissionGP\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.GestionProduits.resources
+D:\Cours\BTS\SIO 2017 - 2018\Rouchon\MissionGP\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.GestionProduitV2.resources
+D:\Cours\BTS\SIO 2017 - 2018\Rouchon\MissionGP\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.PasserCommande.resources
+D:\Cours\BTS\SIO 2017 - 2018\Rouchon\MissionGP\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.Properties.Resources.resources
+D:\Cours\BTS\SIO 2017 - 2018\Rouchon\MissionGP\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.csproj.GenerateResource.Cache
+D:\Cours\BTS\SIO 2017 - 2018\Rouchon\MissionGP\App\Mission_PPEGROUP\commergnat_boutique\obj\Debug\commergnat_boutique.FormCA.resources

@@ -19,10 +19,11 @@ namespace commergnat_boutique
 
         private void GestionProduitV2_Load(object sender, EventArgs e)
         {
+            
             DGV_ListProduit.DataSource = ClasseGestionProduit.getLesProduits();
             CoBox_Filter2.Enabled = false;
             CoBox_Filter.SelectedIndex = 0;
-            CoBox_Filter2.SelectedIndex = 0;
+            CoBox_Filter2.SelectedIndex = 0;                      
         }
 
         private void CoBox_Filter_SelectedIndexChanged(object sender, EventArgs e)
@@ -49,11 +50,9 @@ namespace commergnat_boutique
             if (CoBox_Filter2.SelectedIndex == 0 && CoBox_Filter2.Enabled == true) {
                 DGV_ListProduit.DataSource = ClasseGestionProduit.getLesproduits("materiel");
                 RcTxBoxProduit2.Visible = false;
-                DGV_ListProduit2.Visible = false;
             } else if (CoBox_Filter2.SelectedIndex == 1) {
                 DGV_ListProduit.DataSource = ClasseGestionProduit.getLesproduits("simple");
                 RcTxBoxProduit2.Visible = false;
-                DGV_ListProduit2.Visible = false;
             } else if (CoBox_Filter2.SelectedIndex == 2) {
                 DGV_ListProduit.DataSource = ClasseGestionProduit.getLesproduits("complexe");
                 DGV_ListProduit2.Visible = true;
@@ -73,6 +72,11 @@ namespace commergnat_boutique
         private void DGV_ListProduit2_SelectionChanged(object sender, EventArgs e)
         {
             RcTxBoxProduit2.Text = ClasseGestionProduit.getDescriptionProduit(Convert.ToInt16(DGV_ListProduit2.CurrentRow.Cells[0].Value));
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            new FormCA().Show();
         }
     }
 }

@@ -43,6 +43,7 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -65,6 +66,12 @@
     <Compile Include="ClasseGestionFournisseur.cs" />
     <Compile Include="ClasseGestionProduit.cs" />
     <Compile Include="ClassePasserCommande.cs" />
+    <Compile Include="FormCA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCA.Designer.cs">
+      <DependentUpon>FormCA.cs</DependentUpon>
+    </Compile>
     <Compile Include="GenPDF.cs" />
     <Compile Include="GestionBoutique.cs" />
     <Compile Include="GestionClient.cs">
@@ -113,6 +120,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Acuueil.resx">
       <DependentUpon>Acuueil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCA.resx">
+      <DependentUpon>FormCA.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GestionClient.resx">
       <DependentUpon>GestionClient.cs</DependentUpon>
